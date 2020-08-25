@@ -1,9 +1,8 @@
 
-# Arch-Silence GRUB2 theme
+# Artix-Silence GRUB2 theme
 
-My flat GRUB2 theme.
-
-<img src="./preview.png" width="400">
+This is a fork from [Filippo Ghibellini](https://github.com/fghibellini/arch-silence).
+I only replaced the Arch logo with an Artix logo.
 
 ## Font
 
@@ -15,7 +14,3 @@ which makes it completely useless since there's practically no font that is read
 ## License
 
 If not explicitly stated otherwise all the files in this project are distributed under the [GNU General Public License](./COPYING).
-
-## Author
-
-Filippo Ghibellini
