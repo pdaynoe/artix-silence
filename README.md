@@ -14,3 +14,7 @@ which makes it completely useless since there's practically no font that is read
 ## License
 
 If not explicitly stated otherwise all the files in this project are distributed under the [GNU General Public License](./COPYING).
+
+## Author
+
+Filippo Ghibellini
